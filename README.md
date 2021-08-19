@@ -4,7 +4,9 @@ Do note that current method only reads token without validating it.
 
 ### steps to install
 1. install from source package  
-`go get github.com/prembhaskal/parse-jwt-token`
+```bash
+$ go get github.com/prembhaskal/parse-jwt-token
+```
 2. install from binary  
 coming soon...
 
